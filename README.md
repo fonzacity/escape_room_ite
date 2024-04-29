@@ -9,5 +9,5 @@ chmod +x beginning.sh deactivate.sh
 ```
 3. Play
 ```bash
-./beginnig.sh
+./beginning.sh
 ```
