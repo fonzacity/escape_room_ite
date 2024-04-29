@@ -7,7 +7,8 @@ git clone https://github.com/fonzacity/escape_room_ite.git
 ```bash
 chmod +x beginning.sh deactivate.sh
 ```
-3. Play
+3. Run the beggining file
 ```bash
 ./beginning.sh
 ```
+4. Enter the ITE Escape room and PLAY
